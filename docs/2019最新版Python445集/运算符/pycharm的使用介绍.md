@@ -61,5 +61,10 @@
 
 * 支持eclipse快捷键
 
+## pycharm配置
+
+* 控制台自动换行
+
+在setting里面进行操作。Perferences-Editor-General -> Use soft wraps in console。
 
 ---
